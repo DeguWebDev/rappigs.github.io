@@ -1,6 +1,6 @@
 html, body { margin: 0; padding: 0; }
 body {
-    background: #F6CFCA;
+    background: #F6CFCA url('img/spots.png');
     color: #643036;
     font-family: Arial, sans-serif;
     line-height: 1.3;
