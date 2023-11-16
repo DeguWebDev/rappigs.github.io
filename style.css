@@ -1,6 +1,7 @@
 html, body { margin: 0; padding: 0; }
 body {
-    background: #F6CFCA url('img/spots.png');
+    background: #F6CFCA url('img/spots.png') top center;
+    background-size: 1200px auto;
     color: #643036;
     font-family: Arial, sans-serif;
     line-height: 1.3;
